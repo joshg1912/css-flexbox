@@ -1,0 +1,16 @@
+.container-1 {
+    display:flex;
+    border: 5px solid black;
+}
+
+.box-1 {
+    border: 2px solid black;
+}
+
+.box-2 {
+    border: 2px solid black;
+}
+
+.box-3 {
+    border: 2px solid black;
+}
