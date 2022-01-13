@@ -2,22 +2,18 @@
     display:flex;
     border: 5px solid black;
     /*height: 100%;
-    align-items: center;*/
+    align-items: center;
     flex-direction: column;
+    justify-content: flex-end;   
+    align-items: flex-end;
+    height: 100%;
+    */
+    flex-wrap: wrap;
+
 }
 
-.box-1 {
+.box-1, .box-2, .box-3{
     border: 2px solid black;
     /*align-self: flex-end;*/
 
 }
-
-.box-2 {
-    border: 2px solid black;
-}
-
-.box-3 {
-    border: 2px solid black;
-    /*align-self: flex-start;*/
-}
-
